@@ -76,8 +76,6 @@ The interior was modeled and detailed as part of the main vehicle rather than tr
 
 This includes the dashboard, seats, steering wheel, controls, buttons, and other visible interior components.
 
-The interior was also prepared for the cinematic camera shots so that close-up views would remain detailed.
-
 ---
 
 ## Animation & Scene
