@@ -10,6 +10,22 @@ The Destrier is a particularly challenging subject because it is a very new vehi
 
 ---
 
+<table>
+<tr>
+<td><img src="shota/10011.png" width="450"></td>
+<td><img src="shota/10013.png" width="450"></td>
+</tr>
+<tr>
+<td><img src="shota/10017.png" width="450"></td>
+<td><img src="shota/10018.png" width="450"></td>
+</tr>
+<tr>
+<td><img src="shota/10021.png" width="450"></td>
+<td><img src="shota/10028.png" width="450"></td>
+</tr>
+
+---
+
 ## Concept & Reference
 
 The project began by collecting available reference images from Pinterest and other online sources.
@@ -17,6 +33,20 @@ The project began by collecting available reference images from Pinterest and ot
 Because only a limited amount of detailed reference material was publicly available, the modeling process required a lot of visual analysis and reconstruction.
 
 The car was developed progressively from the rear, through the sides, and toward the front while continuously refining the overall proportions and surface transitions.
+## Renders & Media
+
+---
+
+<table>
+<tr>
+<td><img src="shota/10000.png" width="450"></td>
+<td><img src="shota/10001.png" width="450"></td>
+</tr>
+<tr>
+<td><img src="shota/10005.png" width="450"></td>
+<td><img src="shota/10006.png" width="450"></td>
+</tr>
+</table>
 
 ---
 
@@ -115,21 +145,6 @@ The final cinematic was created from the rendered animation and edited for video
 
 **HANTA (Slowed)** — SomberMvsic
 [YOUTUBE_MUSIC_LINK](https://music.youtube.com/watch?v=ql-Ab27FL3Y&si=VrDa-nSw_6dFm2KS)
-
----
-
-## Renders & Media
-
-<table>
-<tr>
-<td><img src="001.png" width="450"></td>
-<td><img src="002.png" width="450"></td>
-</tr>
-<tr>
-<td><img src="003.png" width="450"></td>
-<td><img src="004.png" width="450"></td>
-</tr>
-</table>
 
 ---
 
