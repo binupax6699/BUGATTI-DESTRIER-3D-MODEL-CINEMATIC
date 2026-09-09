@@ -23,6 +23,7 @@ The Destrier is a particularly challenging subject because it is a very new vehi
 <td><img src="shota/10021.png" width="450"></td>
 <td><img src="shota/10028.png" width="450"></td>
 </tr>
+</table>
 
 ---
 
