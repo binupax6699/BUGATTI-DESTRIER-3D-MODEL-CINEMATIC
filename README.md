@@ -12,16 +12,16 @@ The Destrier is a particularly challenging subject because it is a very new vehi
 
 <table>
 <tr>
-<td><img src="shota/10011.png" width="450"></td>
-<td><img src="shota/10013.png" width="450"></td>
+<td><img src="shots/10011.png" width="450"></td>
+<td><img src="shots/10013.png" width="450"></td>
 </tr>
 <tr>
-<td><img src="shota/10017.png" width="450"></td>
-<td><img src="shota/10018.png" width="450"></td>
+<td><img src="shots/10017.png" width="450"></td>
+<td><img src="shots/10018.png" width="450"></td>
 </tr>
 <tr>
-<td><img src="shota/10021.png" width="450"></td>
-<td><img src="shota/10028.png" width="450"></td>
+<td><img src="shots/10021.png" width="450"></td>
+<td><img src="shots/10028.png" width="450"></td>
 </tr>
 </table>
 
@@ -40,12 +40,12 @@ The car was developed progressively from the rear, through the sides, and toward
 
 <table>
 <tr>
-<td><img src="shota/10000.png" width="450"></td>
-<td><img src="shota/10001.png" width="450"></td>
+<td><img src="shots/10000.png" width="450"></td>
+<td><img src="shots/10001.png" width="450"></td>
 </tr>
 <tr>
-<td><img src="shota/10005.png" width="450"></td>
-<td><img src="shota/10006.png" width="450"></td>
+<td><img src="shots/10005.png" width="450"></td>
+<td><img src="shots/10006.png" width="450"></td>
 </tr>
 </table>
 
