@@ -114,7 +114,7 @@ The final cinematic was created from the rendered animation and edited for video
 ## Music
 
 **HANTA (Slowed)** — SomberMvsic
-Music: https://music.youtube.com/watch?v=ql-Ab27FL3Y&si=VrDa-nSw_6dFm2KS
+[YOUTUBE_MUSIC_LINK](https://music.youtube.com/watch?v=ql-Ab27FL3Y&si=VrDa-nSw_6dFm2KS)
 
 ---
 
