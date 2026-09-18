@@ -79,6 +79,15 @@ The model was continuously refined throughout production to improve proportions,
 
 ---
 
+<table>
+<tr>
+<td><img src="shots/10000.png" width="450"></td>
+<td><img src="shots/10001.png" width="450"></td>
+</tr>
+</table>
+
+---
+
 ## Materials & Textures
 
 Custom materials and textures were created for the vehicle and its individual components.
@@ -96,17 +105,6 @@ The project includes detailed surface work across:
 * Small mechanical and trim components
 
 Normal maps and additional texture detail were used where necessary to add surface complexity without unnecessarily increasing geometry.
-
----
-
-<table>
-<tr>
-<td><img src="shots/10005.png" width="450"></td>
-<td><img src="shots/10006.png" width="450"></td>
-</tr>
-</table>
-
----
 
 ---
 
