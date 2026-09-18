@@ -1,5 +1,12 @@
 # BUGATTI DESTRIER — 3D MODEL & CINEMATIC
 
+<table>
+<tr>
+<td><img src="shots/10011.png" width="450"></td>
+<td><img src="shots/10013.png" width="450"></td>
+</tr>
+</table>
+
 ## Overview
 
 A highly detailed 3D recreation of the **Bugatti Destrier**, modeled entirely from scratch in Blender.
@@ -11,10 +18,6 @@ The Destrier is a particularly challenging subject because it is a very new vehi
 ---
 
 <table>
-<tr>
-<td><img src="shots/10011.png" width="450"></td>
-<td><img src="shots/10013.png" width="450"></td>
-</tr>
 <tr>
 <td><img src="shots/10017.png" width="450"></td>
 <td><img src="shots/10018.png" width="450"></td>
