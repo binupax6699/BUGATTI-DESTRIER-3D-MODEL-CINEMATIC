@@ -37,15 +37,10 @@ The project began by collecting available reference images from Pinterest and ot
 Because only a limited amount of detailed reference material was publicly available, the modeling process required a lot of visual analysis and reconstruction.
 
 The car was developed progressively from the rear, through the sides, and toward the front while continuously refining the overall proportions and surface transitions.
-## Renders & Media
 
 ---
 
 <table>
-<tr>
-<td><img src="shots/10000.png" width="450"></td>
-<td><img src="shots/10001.png" width="450"></td>
-</tr>
 <tr>
 <td><img src="shots/10005.png" width="450"></td>
 <td><img src="shots/10006.png" width="450"></td>
@@ -101,6 +96,17 @@ The project includes detailed surface work across:
 * Small mechanical and trim components
 
 Normal maps and additional texture detail were used where necessary to add surface complexity without unnecessarily increasing geometry.
+
+---
+
+<table>
+<tr>
+<td><img src="shots/10005.png" width="450"></td>
+<td><img src="shots/10006.png" width="450"></td>
+</tr>
+</table>
+
+---
 
 ---
 
