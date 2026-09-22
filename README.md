@@ -51,6 +51,14 @@ The car was developed progressively from the rear, through the sides, and toward
 
 ## Modeling
 
+
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
+
 The entire vehicle was modeled from scratch in Blender.
 
 The main body was built using subdivision-based hard-surface modeling, with careful attention to maintaining clean topology across the complex body surfaces.
