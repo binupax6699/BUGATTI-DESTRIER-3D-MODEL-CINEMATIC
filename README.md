@@ -153,14 +153,14 @@ Despite the long render times, the final scene was completed and rendered as par
 The final cinematic was created from the rendered animation and edited for video presentation.
 
 **Watch the Bugatti Destrier Cinematic:**
-[YOUTUBE_LINK](https://youtu.be/0gfVzRgbG9k?si=cSn0jMNbJaUCYcHy)
+[Final Bugatti Cinematic](https://youtu.be/0gfVzRgbG9k?si=cSn0jMNbJaUCYcHy)
 
 ---
 
 ## Music
 
 **HANTA (Slowed)** — SomberMvsic
-[YOUTUBE_MUSIC_LINK](https://music.youtube.com/watch?v=ql-Ab27FL3Y&si=VrDa-nSw_6dFm2KS)
+[Track used in the edit](https://music.youtube.com/watch?v=ql-Ab27FL3Y&si=VrDa-nSw_6dFm2KS)
 
 ---
 
