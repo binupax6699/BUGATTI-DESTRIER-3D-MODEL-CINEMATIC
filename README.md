@@ -17,6 +17,12 @@ The Destrier is a particularly challenging subject because it is a very new vehi
 
 ---
 
+## Demos
+
+**3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/bugatti-destriel-3d-modle-20ddec3510cf42c7ba9ab60666ef65a6)
+
+---
+
 <table>
 <tr>
 <td><img src="shots/10017.png" width="450"></td>
